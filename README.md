@@ -4,7 +4,7 @@ Google recently released official [Gmail Add-ons](https://gsuite.google.com/mark
 
 I've been working on a Gmail add-on for [Invoice.to](https://invoice.to) and drafted this Sketch library to make things easier for other designers designing Gmail Add-ons.
 
-![](https://github.com/ukaner/Gmail-Addon-Design-Kit/blob/master/img/Examples.jpg "Gmail Addon Design Kit Sketch")
+![](https://github.com/ukaner/Gmail-Addon-Design-Kit/blob/master/img/addon-examples.jpg "Gmail Addon Design Kit Sketch")
 
 ## Install
 
